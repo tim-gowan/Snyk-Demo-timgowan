@@ -1,0 +1,6 @@
+Snyk-Demo.py
+setup.py
+Snyk-Demo.egg-info/PKG-INFO
+Snyk-Demo.egg-info/SOURCES.txt
+Snyk-Demo.egg-info/dependency_links.txt
+Snyk-Demo.egg-info/top_level.txt

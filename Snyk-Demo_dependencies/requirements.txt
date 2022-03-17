@@ -1,0 +1,4 @@
+setuptools~=40.6.2
+argparse~=1.4.0
+requests~=2.26.0
+urllib3~=1.26.6
