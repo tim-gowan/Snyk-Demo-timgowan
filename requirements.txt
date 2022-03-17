@@ -3,4 +3,4 @@ argparse~=1.4.0
 requests~=2.26.0
 urllib3~=1.26.6
 datetime~=4.3
-bleach==2.1.4
+bleach==3.3.0
